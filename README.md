@@ -1,4 +1,4 @@
-# Noval Navigator 
+# Novel Navigator 
 
 Turn Your Favorite Images into Book Recommendations
 
